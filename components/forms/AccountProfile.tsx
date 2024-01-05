@@ -74,6 +74,8 @@ const AccountProfile = ({ user, btnTitle }: Props) => {
       image: values.profile_photo,
     });
 
+    
+
     if (pathname === "/profile/edit") {
       router.back();
     } else {
