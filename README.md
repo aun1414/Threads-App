@@ -40,14 +40,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 A clone of the "Threads" app was successfully developed, leveraging cutting-edge technologies to enhance its capabilities. The project utilized Next.js for efficient server-side rendering, MongoDB for handling complex schemas and data population, and TailwindCSS for a polished user interface. Secure authentication was implemented through Clerk, while file uploads were seamlessly managed with UploadThing. Real-time event handling via webhooks was integrated for a dynamic user experience. TypeScript was employed for strong typing, Zod for data validation, and react hook form for effective form management, ensuring a well-structured and feature-rich application.
 
 ## Features
--Secure authentication through Clerk <br/>  -Homepage where you can scroll through the threads
-
--Creating and posting threads
--Replying to threads 
--Creating a profile
--Editing profile
--Search users
--View activity
+-Secure authentication through Clerk <br/>  
+-Homepage where you can scroll through the threads <br/>
+-Creating and posting threads <br/>
+-Replying to threads <br/> 
+-Creating a profile <br/>
+-Editing profile <br/>
+-Search users <br/>
+-View activity 
 
 ## Screenshots
 ![s3](https://github.com/aun1414/Threads-App/assets/106032365/39f7e1dd-1899-45e2-85da-61a236a8cc49)
